@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "book-tracker",
+  "short_name": "book-tracker",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}

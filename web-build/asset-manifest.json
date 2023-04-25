@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/book-tracker/static/js/main.af692440.js",
+    "static/js/823.6f5aa862.js": "/book-tracker/static/js/823.6f5aa862.js",
+    "static/media/rocket.png": "/book-tracker/static/media/rocket.d2f3bf41d5e4515c39a9.png",
+    "static/media/bell.png": "/book-tracker/static/media/bell.cf04af27d6a651c4b904.png",
+    "static/media/star.png": "/book-tracker/static/media/star.69c7138684828d68fe5a.png",
+    "static/media/heart.png": "/book-tracker/static/media/heart.23b5c2c0eb77d50ff1b4.png",
+    "index.html": "/book-tracker/index.html",
+    "manifest.json": "/book-tracker/manifest.json",
+    "serve.json": "/book-tracker/serve.json",
+    "main.af692440.js.map": "/book-tracker/static/js/main.af692440.js.map",
+    "823.6f5aa862.js.map": "/book-tracker/static/js/823.6f5aa862.js.map"
+  },
+  "entrypoints": [
+    "static/js/823.6f5aa862.js",
+    "static/js/main.af692440.js"
+  ]
+}
